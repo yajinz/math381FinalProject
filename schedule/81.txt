@@ -1,0 +1,5 @@
+Student Employee 81:
+Total hour: 11.75
+Sat: 9:30am-1:15pm, (Deli)
+Sun: 9:30am-1:15pm, (Deli)
+Fri: 5:30pm-9:45pm, (Dishroom)

@@ -1,0 +1,5 @@
+Student Employee 92:
+Total hour: 11.5
+Wed: 11:00am-3:30pm, (Big Kitchen)
+Thu: 4:45pm-8:00pm, (Big Kitchen)
+Sat: 4:45pm-8:30pm, (Deli)

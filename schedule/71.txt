@@ -1,0 +1,5 @@
+Student Employee 71:
+Total hour: 11.0
+Fri: 3:00pm-6:00pm, (Deli)
+Sat: 12:00pm-4:45pm, (Deli)
+Fri: 6:30pm-9:45pm, (Dishroom)

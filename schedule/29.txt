@@ -1,0 +1,5 @@
+Student Employee 29:
+Total hour: 10.5
+Mon: 10:45am-3:00pm, (Big Kitchen)
+Tue: 4:00pm-6:30pm, (Dishroom)
+Sat: 6:00pm-9:45pm, (Dishroom)

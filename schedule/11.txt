@@ -1,0 +1,5 @@
+Student Employee 11:
+Total hour: 10.25
+Mon: 6:00pm-9:30pm, (Dining)
+Mon: 10:30am-2:00pm, (Global)
+Wed: 4:45pm-8:00pm, (Tero)

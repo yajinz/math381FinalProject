@@ -1,0 +1,5 @@
+Student Employee 40:
+Total hour: 10.25
+Sun: 11:30am-3:15pm, (Dishroom)
+Wed: 5:30pm-9:00pm, (Grill)
+Mon: 8:30pm-11:30pm, (Late Night)

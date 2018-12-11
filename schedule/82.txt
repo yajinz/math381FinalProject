@@ -1,0 +1,5 @@
+Student Employee 82:
+Total hour: 10.5
+Mon: 5:00pm-8:30pm, (Deli)
+Thu: 11:00am-2:15pm, (Deli)
+Fri: 6:00pm-9:45pm, (Dishroom)

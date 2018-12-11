@@ -1,0 +1,5 @@
+Student Employee 8:
+Total hour: 10.0
+Sun: 4:45pm-8:00pm, (Big Kitchen)
+Tue: 11:30am-3:00pm, (Grill)
+Sun: 10:15pm-1:30am, (Late Night)

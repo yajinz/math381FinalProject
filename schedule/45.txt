@@ -1,0 +1,5 @@
+Student Employee 45:
+Total hour: 10.5
+Tue: 5:00pm-8:30pm, (Big Kitchen)
+Sat: 8:00am-11:30am, (Dishroom)
+Fri: 10:30am-2:00pm, (Grill)

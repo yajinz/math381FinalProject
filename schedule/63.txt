@@ -1,0 +1,5 @@
+Student Employee 63:
+Total hour: 11.0
+Mon: 4:15pm-8:00pm, (Grill)
+Fri: 4:15pm-8:00pm, (Grill)
+Tue: 11:00am-2:30pm, (Tero)

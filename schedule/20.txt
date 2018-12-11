@@ -1,0 +1,5 @@
+Student Employee 20:
+Total hour: 10.0
+Wed: 7:30am-11:00am, (Deli)
+Thu: 7:00am-10:00am, (Deli)
+Wed: 6:15pm-9:45pm, (Dishroom)

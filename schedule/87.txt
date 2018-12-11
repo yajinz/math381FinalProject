@@ -1,0 +1,5 @@
+Student Employee 87:
+Total hour: 11.0
+Wed: 7:00am-10:30am, (Big Kitchen)
+Thu: 11:00am-3:00pm, (Dining)
+Tue: 10:00am-1:30pm, (Grill)

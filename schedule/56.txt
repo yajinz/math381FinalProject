@@ -1,0 +1,5 @@
+Student Employee 56:
+Total hour: 11.5
+Sun: 12:00pm-4:45pm, (Deli)
+Tue: 11:00am-2:00pm, (Dishroom)
+Sat: 2:00pm-5:45pm, (Dishroom)

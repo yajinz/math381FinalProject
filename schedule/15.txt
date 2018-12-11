@@ -1,0 +1,6 @@
+Student Employee 15:
+Total hour: 16.0
+Sun: 9:45am-2:00pm, (Big Kitchen)
+Thu: 5:45pm-9:30pm, (Dining)
+Wed: 5:30pm-9:45pm, (Dishroom)
+Tue: 4:45pm-8:30pm, (Global)

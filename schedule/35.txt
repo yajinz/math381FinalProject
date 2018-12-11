@@ -1,0 +1,6 @@
+Student Employee 35:
+Total hour: 13.5
+Tue: 7:00am-10:30am, (Big Kitchen)
+Sat: 5:30pm-9:00pm, (Deli)
+Wed: 7:00am-10:00am, (Dining)
+Tue: 11:00am-2:30pm, (Global)

@@ -1,0 +1,5 @@
+Student Employee 16:
+Total hour: 12.0
+Wed: 5:15pm-9:00pm, (Grill)
+Fri: 11:00am-2:30pm, (Tero)
+Tue: 8:45pm-1:30am, (Late Night)

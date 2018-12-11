@@ -1,0 +1,5 @@
+Student Employee 72:
+Total hour: 10.0
+Sat: 7:00am-10:30am, (Deli)
+Mon: 5:30pm-8:30pm, (Global)
+Sat: 5:30pm-9:00pm, (Grill)

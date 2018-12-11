@@ -1,0 +1,5 @@
+Student Employee 78:
+Total hour: 10.0
+Wed: 4:45pm-8:00pm, (Big Kitchen)
+Tue: 11:45am-3:00pm, (Deli)
+Tue: 5:30pm-9:00pm, (Grill)

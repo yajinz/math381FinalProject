@@ -1,0 +1,6 @@
+Student Employee 13:
+Total hour: 10.25
+Sat: 10:45am-2:30pm, (Big Kitchen)
+Mon: 6:30pm-8:00pm, (Dishroom)
+Tue: 6:30pm-8:00pm, (Dishroom)
+Mon: 10:30am-2:00pm, (Tero)

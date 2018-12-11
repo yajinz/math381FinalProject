@@ -1,0 +1,5 @@
+Student Employee 18:
+Total hour: 10.25
+Mon: 4:45pm-8:00pm, (Big Kitchen)
+Tue: 6:00pm-9:45pm, (Dishroom)
+Wed: 8:00am-11:15am, (Dishroom)

@@ -1,0 +1,5 @@
+Student Employee 26:
+Total hour: 10.0
+Tue: 7:00am-10:00am, (Deli)
+Wed: 10:45am-2:00pm, (Deli)
+Sat: 4:30pm-8:15pm, (Grill)

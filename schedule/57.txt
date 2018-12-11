@@ -1,0 +1,5 @@
+Student Employee 57:
+Total hour: 10.25
+Tue: 10:45am-3:00pm, (Big Kitchen)
+Mon: 1:30pm-4:00pm, (Dishroom)
+Mon: 5:30pm-9:00pm, (Grill)

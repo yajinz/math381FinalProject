@@ -1,0 +1,5 @@
+Student Employee 32:
+Total hour: 10.25
+Fri: 4:45pm-8:00pm, (Big Kitchen)
+Wed: 10:30am-2:00pm, (Grill)
+Fri: 11:30am-3:00pm, (Grill)

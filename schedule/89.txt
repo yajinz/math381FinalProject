@@ -1,0 +1,6 @@
+Student Employee 89:
+Total hour: 14.75
+Fri: 5:15pm-8:30pm, (Deli)
+Sat: 4:45pm-9:00pm, (Deli)
+Sat: 11:30am-3:15pm, (Dishroom)
+Tue: 10:30am-2:00pm, (Grill)

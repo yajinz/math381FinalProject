@@ -1,0 +1,6 @@
+Student Employee 38:
+Total hour: 14.0
+Wed: 7:30am-11:00am, (Big Kitchen)
+Thu: 5:00pm-8:30pm, (Deli)
+Sun: 5:30pm-9:00pm, (Deli)
+Tue: 10:30am-2:00pm, (Tero)

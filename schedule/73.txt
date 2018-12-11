@@ -1,0 +1,5 @@
+Student Employee 73:
+Total hour: 10.0
+Thu: 5:30pm-9:00pm, (Deli)
+Fri: 4:00pm-6:30pm, (Dishroom)
+Sun: 4:00pm-8:00pm, (Grill)

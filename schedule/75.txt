@@ -1,0 +1,5 @@
+Student Employee 75:
+Total hour: 10.0
+Mon: 5:30pm-9:00pm, (Deli)
+Tue: 1:30pm-4:00pm, (Dishroom)
+Wed: 4:30pm-8:30pm, (Grill)

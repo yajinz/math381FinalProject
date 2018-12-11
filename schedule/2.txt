@@ -1,0 +1,5 @@
+Student Employee 2:
+Total hour: 11.5
+Tue: 5:30pm-9:45pm, (Dishroom)
+Wed: 4:15pm-8:00pm, (Grill)
+Mon: 10:00pm-1:30am, (Late Night)

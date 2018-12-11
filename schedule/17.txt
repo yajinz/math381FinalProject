@@ -1,0 +1,5 @@
+Student Employee 17:
+Total hour: 10.5
+Fri: 11:00am-2:30pm, (Deli)
+Sat: 8:00am-11:30am, (Deli)
+Wed: 9:30am-1:00pm, (Dishroom)

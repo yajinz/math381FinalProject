@@ -1,0 +1,5 @@
+Student Employee 58:
+Total hour: 10.5
+Thu: 7:30am-11:00am, (Big Kitchen)
+Thu: 4:45pm-8:30pm, (Deli)
+Wed: 11:00am-2:15pm, (Global)

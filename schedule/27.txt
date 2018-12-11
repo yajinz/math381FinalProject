@@ -1,0 +1,5 @@
+Student Employee 27:
+Total hour: 10.5
+Mon: 10:00am-1:00pm, (Deli)
+Sun: 10:00am-1:45pm, (Dishroom)
+Wed: 10:30am-2:15pm, (Global)

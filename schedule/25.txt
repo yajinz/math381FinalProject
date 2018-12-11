@@ -1,0 +1,5 @@
+Student Employee 25:
+Total hour: 10.25
+Thu: 6:30pm-9:45pm, (Dishroom)
+Fri: 8:00am-11:15am, (Dishroom)
+Sat: 6:00pm-9:45pm, (Dishroom)

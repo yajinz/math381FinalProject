@@ -1,0 +1,5 @@
+Student Employee 60:
+Total hour: 10.0
+Thu: 5:00pm-8:30pm, (Big Kitchen)
+Sun: 5:00pm-8:30pm, (Big Kitchen)
+Mon: 7:00am-10:00am, (Deli)

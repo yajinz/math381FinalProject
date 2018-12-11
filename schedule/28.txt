@@ -1,0 +1,5 @@
+Student Employee 28:
+Total hour: 10.0
+Fri: 7:00am-10:00am, (Deli)
+Sat: 4:45pm-8:30pm, (Deli)
+Wed: 10:15am-1:30pm, (Grill)

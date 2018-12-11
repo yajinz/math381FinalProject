@@ -1,0 +1,5 @@
+Student Employee 83:
+Total hour: 10.5
+Tue: 4:45pm-8:00pm, (Big Kitchen)
+Sun: 9:30am-1:15pm, (Big Kitchen)
+Fri: 7:30am-11:00am, (Deli)

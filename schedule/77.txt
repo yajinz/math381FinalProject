@@ -1,0 +1,5 @@
+Student Employee 77:
+Total hour: 10.0
+Mon: 12:00pm-3:00pm, (Dining)
+Wed: 5:45pm-9:30pm, (Dining)
+Tue: 4:45pm-8:00pm, (Tero)

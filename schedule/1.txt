@@ -1,0 +1,5 @@
+Student Employee 1:
+Total hour: 10.0
+Sun: 10:45am-2:30pm, (Big Kitchen)
+Mon: 4:00pm-6:30pm, (Dishroom)
+Thu: 2:00pm-5:45pm, (Dishroom)

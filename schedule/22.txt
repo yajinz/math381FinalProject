@@ -1,0 +1,5 @@
+Student Employee 22:
+Total hour: 10.0
+Sat: 4:45pm-8:00pm, (Big Kitchen)
+Thu: 3:00pm-6:00pm, (Deli)
+Sun: 4:45pm-8:30pm, (Deli)

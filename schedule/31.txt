@@ -1,0 +1,5 @@
+Student Employee 31:
+Total hour: 10.0
+Thu: 7:00am-10:00am, (Dining)
+Tue: 10:45am-2:00pm, (Global)
+Sat: 5:15pm-9:00pm, (Grill)

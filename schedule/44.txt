@@ -1,0 +1,5 @@
+Student Employee 44:
+Total hour: 11.25
+Sat: 9:30am-1:15pm, (Big Kitchen)
+Sun: 11:30am-3:15pm, (Deli)
+Tue: 4:15pm-8:00pm, (Grill)

@@ -1,0 +1,5 @@
+Student Employee 33:
+Total hour: 12.0
+Thu: 10:45am-3:00pm, (Big Kitchen)
+Fri: 2:00pm-5:45pm, (Dishroom)
+Mon: 4:30pm-8:30pm, (Grill)

@@ -1,0 +1,5 @@
+Student Employee 67:
+Total hour: 10.5
+Sat: 1:00pm-4:45pm, (Deli)
+Fri: 9:30am-1:00pm, (Dishroom)
+Mon: 10:45am-2:00pm, (Grill)

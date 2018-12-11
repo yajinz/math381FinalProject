@@ -1,0 +1,5 @@
+Student Employee 34:
+Total hour: 11.25
+Fri: 10:45am-3:00pm, (Big Kitchen)
+Tue: 4:30pm-8:30pm, (Grill)
+Wed: 8:30pm-11:30pm, (Late Night)

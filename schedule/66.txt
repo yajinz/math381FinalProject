@@ -1,0 +1,5 @@
+Student Employee 66:
+Total hour: 10.0
+Mon: 5:00pm-8:30pm, (Big Kitchen)
+Tue: 11:00am-2:15pm, (Big Kitchen)
+Thu: 8:00am-11:15am, (Dishroom)

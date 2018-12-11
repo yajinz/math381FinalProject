@@ -1,0 +1,5 @@
+Student Employee 80:
+Total hour: 11.0
+Wed: 7:00am-10:45am, (Deli)
+Fri: 4:45pm-8:30pm, (Deli)
+Tue: 5:00pm-8:30pm, (Tero)

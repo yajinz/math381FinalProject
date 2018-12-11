@@ -1,0 +1,5 @@
+Student Employee 91:
+Total hour: 10.75
+Wed: 2:00pm-5:45pm, (Dishroom)
+Sun: 5:15pm-9:00pm, (Grill)
+Thu: 4:45pm-8:00pm, (Tero)

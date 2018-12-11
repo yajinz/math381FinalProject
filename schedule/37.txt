@@ -1,0 +1,6 @@
+Student Employee 37:
+Total hour: 14.5
+Wed: 5:00pm-8:30pm, (Big Kitchen)
+Thu: 6:00pm-9:45pm, (Dishroom)
+Tue: 5:15pm-9:00pm, (Grill)
+Thu: 10:30am-2:00pm, (Tero)

@@ -1,0 +1,6 @@
+Student Employee 79:
+Total hour: 10.5
+Fri: 7:00am-10:00am, (Dining)
+Mon: 1:00pm-3:00pm, (Dishroom)
+Tue: 1:00pm-4:00pm, (Dishroom)
+Wed: 4:00pm-6:30pm, (Dishroom)

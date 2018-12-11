@@ -1,0 +1,5 @@
+Student Employee 4:
+Total hour: 10.0
+Wed: 11:45am-3:00pm, (Deli)
+Fri: 12:00pm-3:00pm, (Dining)
+Tue: 2:00pm-5:45pm, (Dishroom)

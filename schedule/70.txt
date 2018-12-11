@@ -1,0 +1,5 @@
+Student Employee 70:
+Total hour: 10.0
+Sun: 7:00am-10:30am, (Deli)
+Thu: 10:30am-2:00pm, (Global)
+Sun: 8:30pm-11:30pm, (Late Night)

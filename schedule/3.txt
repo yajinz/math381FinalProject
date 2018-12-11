@@ -1,0 +1,5 @@
+Student Employee 3:
+Total hour: 10.5
+Mon: 2:00pm-5:45pm, (Dishroom)
+Thu: 9:45am-1:00pm, (Dishroom)
+Fri: 10:30am-2:00pm, (Tero)

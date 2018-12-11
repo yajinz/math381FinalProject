@@ -1,0 +1,5 @@
+Student Employee 50:
+Total hour: 10.0
+Wed: 5:00pm-8:30pm, (Deli)
+Mon: 5:00pm-8:30pm, (Tero)
+Tue: 8:30pm-11:30pm, (Late Night)

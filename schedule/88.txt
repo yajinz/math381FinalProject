@@ -1,0 +1,6 @@
+Student Employee 88:
+Total hour: 16.0
+Fri: 11:00am-3:30pm, (Big Kitchen)
+Tue: 5:30pm-9:00pm, (Deli)
+Sun: 6:00pm-10:00pm, (Dishroom)
+Fri: 4:30pm-8:30pm, (Grill)

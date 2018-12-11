@@ -1,0 +1,5 @@
+Student Employee 69:
+Total hour: 12.0
+Sat: 12:00pm-4:45pm, (Deli)
+Sun: 8:00am-11:30am, (Deli)
+Sun: 4:45pm-8:30pm, (Deli)

@@ -1,0 +1,5 @@
+Student Employee 23:
+Total hour: 11.75
+Thu: 7:00am-10:30am, (Big Kitchen)
+Tue: 7:15am-10:45am, (Deli)
+Sun: 8:45pm-1:30am, (Late Night)

@@ -1,0 +1,5 @@
+Student Employee 10:
+Total hour: 10.5
+Mon: 11:45am-3:00pm, (Deli)
+Mon: 5:15pm-9:00pm, (Grill)
+Tue: 10:00pm-1:30am, (Late Night)

@@ -1,0 +1,5 @@
+Student Employee 86:
+Total hour: 10.5
+Fri: 5:30pm-9:00pm, (Deli)
+Fri: 1:00pm-4:00pm, (Dishroom)
+Sat: 4:00pm-8:00pm, (Grill)

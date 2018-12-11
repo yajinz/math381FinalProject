@@ -1,0 +1,6 @@
+Student Employee 12:
+Total hour: 14.75
+Sun: 5:00pm-8:30pm, (Big Kitchen)
+Sun: 4:45pm-9:00pm, (Deli)
+Mon: 11:00am-2:30pm, (Global)
+Wed: 11:30am-3:00pm, (Grill)

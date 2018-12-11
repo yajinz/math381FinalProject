@@ -1,0 +1,5 @@
+Student Employee 6:
+Total hour: 10.0
+Wed: 11:30am-3:00pm, (Dining)
+Mon: 11:45am-3:00pm, (Grill)
+Thu: 11:45am-3:00pm, (Grill)

@@ -1,0 +1,5 @@
+Student Employee 24:
+Total hour: 11.0
+Mon: 4:45pm-8:30pm, (Deli)
+Thu: 4:45pm-8:30pm, (Global)
+Wed: 5:00pm-8:30pm, (Tero)

@@ -1,0 +1,5 @@
+Student Employee 59:
+Total hour: 13.0
+Mon: 11:00am-3:30pm, (Big Kitchen)
+Sun: 2:00pm-5:45pm, (Dishroom)
+Thu: 8:45pm-1:30am, (Late Night)

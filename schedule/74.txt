@@ -1,0 +1,5 @@
+Student Employee 74:
+Total hour: 11.25
+Tue: 5:30pm-8:30pm, (Deli)
+Sun: 12:00pm-4:45pm, (Deli)
+Wed: 5:00pm-8:30pm, (Global)

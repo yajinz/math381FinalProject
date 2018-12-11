@@ -1,0 +1,5 @@
+Student Employee 46:
+Total hour: 11.0
+Wed: 11:00am-2:00pm, (Dishroom)
+Wed: 6:30pm-9:45pm, (Dishroom)
+Mon: 8:45pm-1:30am, (Late Night)

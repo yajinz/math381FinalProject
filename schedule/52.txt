@@ -1,0 +1,5 @@
+Student Employee 52:
+Total hour: 10.5
+Mon: 7:00am-10:30am, (Big Kitchen)
+Thu: 5:00pm-8:30pm, (Global)
+Thu: 10:00pm-1:30am, (Late Night)

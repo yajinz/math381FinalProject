@@ -1,0 +1,6 @@
+Student Employee 62:
+Total hour: 11.0
+Mon: 7:00am-10:00am, (Dining)
+Sun: 11:00am-2:30pm, (Dining)
+Thu: 1:00pm-3:00pm, (Dishroom)
+Thu: 4:00pm-6:30pm, (Dishroom)
